@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028375043299",
+    "project_id": "new-guide-app-e7ba4",
+    "storage_bucket": "new-guide-app-e7ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028375043299:android:daf6f174dda6e7f6e5b9d6",
+        "android_client_info": {
+          "package_name": "com.example.new_guide_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028375043299-ehle8qsbkn12lkk12taq83l35fmdia0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSvlxzNzDsfJ29BRQ6MX-eFSxYfWrtOUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028375043299-ehle8qsbkn12lkk12taq83l35fmdia0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
